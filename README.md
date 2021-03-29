@@ -18,5 +18,5 @@ A modified version of AM2R 1.1 intended to make you feel overpowered. Hyper Beam
 Download for [Windows](https://github.com/Miepee/AM2R-Mods/raw/main/FATE%20AM2R.zip).
 
 ## AM2R Multitroid by milesthenerd
-A modified version of AM2R 1.5.2 that allows you to play co-op with up to 8 people, online. More information can be found on milesthenerd's [Repository](https://github.com/lassiterm/AM2R-Multitroid/).  
-Download links, can be found [here](https://github.com/lassiterm/AM2R-Multitroid/releases/latest)
+A modified version of AM2R 1.5.2 that allows you to play co-op with up to 8 people online. More information can be found on milesthenerd's [Repository](https://github.com/lassiterm/AM2R-Multitroid/).  
+Download links, can be found [here](https://github.com/lassiterm/AM2R-Multitroid/releases/latest).
