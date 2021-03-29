@@ -2,6 +2,8 @@
 A repository listing available Mods for AM2R
 
 > **NEITHER I, NOR THE AM2R-COMMUNITY-DEVELOPERS ARE RESPONSIBLE FOR ANY DAMAGE THESE MODS DO TO YOUR PC, USE AT YOUR OWN RISK!!!**
+    
+<br>
 
 ## Practice Mod by Nommiin
 A modified version of AM2R 1.1 used for speedrunning practice. Has savestates, in order to easily practice certain Areas or splits.  
